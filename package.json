@@ -21,7 +21,7 @@
     "@types/chrome": "^0.0.309",
     "typescript": "^5.8.2",
     "vite-plugin-remove-console": "^2.2.0",
-    "wxt": "^0.19.29",
+    "wxt": "^0.21.5",
     "@wxt-dev/i18n": "^0.2.3"
   },
   "main": "index.js",
